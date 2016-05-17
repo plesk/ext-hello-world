@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 1999-2016. Parallels IP Holdings GmbH. -->
+<module>
+  <id>hello-world</id>
+  <name>Hello World extension</name>
+  <description>Sample extension to display "Hello, World!"</description>
+  <version>1.0</version>
+  <release>1</release>
+  <vendor>Plesk</vendor>
+  <url>http://plesk.com</url>
+  <plesk_min_version>11.0</plesk_min_version>
+</module>
