@@ -1,5 +1,5 @@
 <?php
-// Copyright 1999-2016. Parallels IP Holdings GmbH.
+// Copyright 1999-2026. WebPros International GmbH.
 
 $application = new pm_Application();
 $application->run();
