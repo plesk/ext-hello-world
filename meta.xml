@@ -8,5 +8,5 @@
   <release>1</release>
   <vendor>Plesk</vendor>
   <url>http://plesk.com</url>
-  <plesk_min_version>11.0</plesk_min_version>
+  <plesk_min_version>18.0</plesk_min_version>
 </module>
